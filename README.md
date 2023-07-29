@@ -16,3 +16,12 @@ This repository provides four notebooks for running molecular dynamics simulatio
 
 All inputs and outputs are stored in your AIStudio workspace.
 
+## Advantages of AIStudio Version
+
+The main advantage of this AIStudio version of the code is the significantly accelerated process of GROMACS source code compilation. Additionally, the AIStudio container retains stored files even when the connection is interrupted, eliminating concerns about data loss.
+
+## Copyright Notice
+
+The primary code for these notebooks was developed by GitHub user [bioinfkaustin](https://github.com/bioinfkaustin). If this code is used in a published work, please cite the GitHub repository at [GROMACS on Colab](https://github.com/bioinfkaustin/gromacs-on-colab). 
+
+For viewing the version of the code executed on Google Colab, please visit: [GROMACS on Colab](https://github.com/bioinfkaustin/gromacs-on-colab).
